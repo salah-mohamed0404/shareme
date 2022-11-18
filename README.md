@@ -6,5 +6,5 @@ This is a modern fullstack web application with all advansed social media such a
 
 built with:
 
-- for frontend: Reactjs and tailwind.
+- for frontend: Reactjs, Sass and tailwind.
 - for backend: sanity.

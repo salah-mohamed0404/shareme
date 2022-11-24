@@ -20,22 +20,23 @@ Built with:
 [Live website](https://shareme-s.web.app/)
 
 - Features:
-  - Login With google
+  - Login With google<br />
     ![Login page](./shareme_frontend/src/assets/shareme-login.png "The web site snapshot")
-  - Create new pin
+  - Create new pin<br />
     ![Create pin page](./shareme_frontend/src/assets/shareme-create-pin.png)
-  - Save, Dawnload, click pin for it's details and Delete (if you are the user who posted it)
-    User's pin
+  - Save, Dawnload, click pin for it's details and Delete (if you are the user who posted it)<br />
+    User's pin<br />
     ![User pin](./shareme_frontend/src/assets/shareme-user-pin.png)
-    Other's pin
+    <br />
+    Other's pin<br />
     ![General pin](./shareme_frontend/src/assets/shareme-general-pin.png)
-  - Pin detail page to show it's details, comments and more similar Pins
+  - Pin detail page to show it's details, comments and more similar Pins<br />
     ![pin detail page](./shareme_frontend/src/assets/shareme-pin-details.png)
-  - search functionality
+  - search functionality<br />
     ![Search functionality](./shareme_frontend/src/assets/shareme-search.png)
-  - See photos By it's category
+  - See photos By it's category<br />
     ![Pin category](./shareme_frontend/src/assets/shareme-pin-category.png)
-  - User's profile page (to see his creates and saved pins)
+  - User's profile page (to see his creates and saved pins)<br />
     ![user profile](./shareme_frontend/src/assets/shareme-user.png)
 
 [Live website](https://shareme-s.web.app/)

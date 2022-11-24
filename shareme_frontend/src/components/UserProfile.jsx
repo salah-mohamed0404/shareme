@@ -64,12 +64,12 @@ function UserProfile() {
             <img
               src={randomImage}
               className="w-full h-370 2xl:h-510 shadow-lg object-cover"
-              alt="banner-picture"
+              alt="banner"
             />
             <img
               className="rounded-full w-20 h-20 -mt-10 shadow-xl object-cover"
               src={user.image}
-              alt="user-picture"
+              alt="user"
             />
             <h1 className="font-bold text-3xl text-center mt-3">
               {user.userName}
